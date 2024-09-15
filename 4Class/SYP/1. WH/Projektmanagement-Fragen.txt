@@ -1,0 +1,38 @@
+DONE - 1. Grundzüge Traditionelles (Klassisches) PM
+DONE - 2. Vorgehensmodelle (Wasserfallmodell, Spiralmodell)
+DONE - 3. Methoden und Instrumente für Klassisches PM (situative Auswahl!)
+DONE - - Projektstart (Auftrag, Kick-off)
+DONE - - Zieldefinition (Muss-/Kannziele, Haupt-/Vorgangs-/Nichtziele, SMART)
+DONE - - Projektorganisation (Rollen, Formen, P-Organigramm)
+DONE - - Projektkontext (sachlich ,zeitlich, sozial) und Umweltanalyse
+DONE - - Aufgabenplanung (PSP, Arbeitspakete, Funktionendiagramm)
+DONE - - Zeitplanung (Meilensteine, Terminliste, Balkendiagramm, Netzplan)
+DONE - - Ressourcen- und Kostenplanung
+DONE - - Projektcontrolling u. Abweichungsteuerung (P-Status/Score Card)
+DONE - - Projektrisiken und Krisenbewältigung
+DONE - - Projektmarketing
+DONE - - Projektabschluss (Übergabe, Abnahme)
+DONE - 4. Stärken/Schwächen Klassisches PM
+DONE - 5. Grundzüge Agiles PM (Vorgehen, Werte, Prinzipen)
+DONE - 6. Scrum (Rollen, Aktivitäten, Artefakte)
+DONE - 7. Product Backlog, User Story (INVEST)
+DONE - 8. Story Points, Velocity
+DONE - 9. Sprint Backlog, Sprint Planning (Priorisierung, Tasks)
+DONE - 10. Task Board
+DONE - 11. Burndown Chart
+DONE - 12. Produktincrement
+DONE - 13. Releaseplan
+Done - 14. Daily Scrum
+DONE - 15. Sprint Review
+Done - 16. Sprint Retrospektive
+
+
+17. Kanban (Allgemeines, Prinzipien)
+18. Kanban Praktiken
+19. Kanban Board
+20. Scrumban
+21. Vergleich Kanban mit Scrum
+22. Grundzüge Hybrides PM (Auswahlkriterien klassisch/agile Anteile)
+23. Hybride Vorgehensmodelle (sequenziell, parallel, integriert)
+24. Beispiel Wasserfall-Scrum-Modell
+25. Softwarewerkzeuge zur PM-Unterstützung (Jira, Taiga, Project)
